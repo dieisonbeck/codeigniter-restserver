@@ -1,6 +1,6 @@
 <?php
 
-namespace chriskacerguis\RestServer;
+namespace dieisonbeck\RestServer;
 
 use Exception;
 use stdClass;
