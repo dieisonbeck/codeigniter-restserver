@@ -1,6 +1,6 @@
 <?php
 
-namespace dieisobeck\RestServer;
+namespace dieisonbeck\RestServer;
 
 use Exception;
 
